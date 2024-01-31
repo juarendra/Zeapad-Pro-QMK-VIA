@@ -1,7 +1,7 @@
 {
   "name": "KB16-01",
   "vendorId": "0x3454",
-  "productId": "0x5444",
+  "productId": "0x5445",
   "keycodes": ["qmk_lighting"],
   "menus": ["qmk_rgblight"],
   "matrix": {"rows": 4, "cols": 5},
