@@ -49,5 +49,4 @@ Here's some examples:
 ## Preview Hardware
 
 ## Preview VIA
-<video src="https://github.com/juarendra/Zeapad-Pro-QMK-VIA/raw/main/tutorial_load_json_file.mov" controls="controls" style="max-width: 730px;">
-</video>
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
