@@ -24,6 +24,28 @@ VIA WEB VERSION : https://usevia.app/
 - Open Configure Tab to setting your macropad
 - If nothing happend , do it again from first
 
+## Link Keycode QMK
+- mouse : https://github.com/qmk/qmk_firmware/blob/master/docs/feature_mouse_keys.md
+- keyboard : https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md
+
+## Tutorial VIA Usage
+- https://docs.keeb.io/via
+
+## Cara Setting Knob
+- Untuk melakukan setting di knob perlu memasukan command berupa keycode qmk, Jadi cara nya sama dengan melakuykan setting dengan Any key seperti petunjuk pada link berikut: 
+https://docs.keeb.io/via
+
+Here's some examples:
+
+- LALT(KC_TAB) - Sends Alt-Tab
+- LCTL(KC_C) - Sends Ctrl-C
+- LGUI(KC_C) - Sends Cmd-C or Win-C
+- LSFT(LCTL(KC_END)) - Sends Shift-Ctrl-End
+- MO(1) - Momentarily turn on layer 1
+- LCA(KC_DEL) - Sends Ctrl-Alt-Del
+- MT(MOD_RSFT, KC_ENT) - Sends Shift if held, Enter if tapped
+
+
 ## Preview Hardware
 
 ## Preview VIA
