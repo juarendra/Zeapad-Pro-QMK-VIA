@@ -49,5 +49,5 @@ Here's some examples:
 ## Preview Hardware
 
 ## Preview VIA
-<video src="LINK" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/juarendra/Zeapad-Pro-QMK-VIA/raw/main/tutorial_load_json_file.mov" controls="controls" style="max-width: 730px;">
 </video>
