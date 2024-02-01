@@ -49,4 +49,5 @@ Here's some examples:
 ## Preview Hardware
 
 ## Preview VIA
-[![Positron Electronic on YouTube](http://img.youtube.com/vi/qvMjg3LCvkY/0.jpg)](http://www.youtube.com/watch?v=qvMjg3LCvkY "zeapad stm32")
+<video src="LINK" controls="controls" style="max-width: 730px;">
+</video>
