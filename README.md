@@ -44,6 +44,12 @@ Here's some examples:
 - MO(1) - Momentarily turn on layer 1
 - LCA(KC_DEL) - Sends Ctrl-Alt-Del
 - MT(MOD_RSFT, KC_ENT) - Sends Shift if held, Enter if tapped
+- MACRO (0) - macro 0
+
+## How To use MACRO
+you can read on [this file](https://github.com/juarendra/STREAMPAD-QMK-VIA/blob/main/DOC/MACRO%20VIA%20USAGE.pdf)
+or you can read on this [web](https://www.keychron.com/blogs/archived/how-to-use-via-to-program-your-keyboard)
+or you can see video [youtube](https://youtu.be/GtSeo69Y0Zw)
 
 
 ## Preview Hardware
