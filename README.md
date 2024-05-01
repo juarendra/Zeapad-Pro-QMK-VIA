@@ -1,4 +1,7 @@
 # Zeapad-Pro-QMK-VIA
+This is Macropad that have function like keyboard but you can setting/proggrammed every single key with anything you want. This macropad also have feature MACRO, it mean you just need prees a single swith for Combination Key. All Function can be setting in Apps named VIA. Then you can buy it in this [TOKOPEDIA](https://tokopedia.link/HMb2O1O1eJb) 
+Many people use it for help they for Computer Task Like Edithing Vidio or Excel Formula shortcut
+
 
 ## Spesification
 - STM32F401 as Microcontroller
@@ -53,10 +56,15 @@ or you can see video [youtube](https://youtu.be/GtSeo69Y0Zw)
 
 
 ## Preview Hardware
+<p align="center">
+  <img src="DOC/HARDWARE/hw1.jpeg" width="25%" height="25%">
+  <img src="DOC/HARDWARE/hw2.jpeg" width="25%" height="25%">
+  <img src="DOC/HARDWARE/hw3.jpeg" width="25%" height="25%">
+
+</p>
+
 
 ## Preview VIA
-
-
 https://github.com/juarendra/Zeapad-Pro-QMK-VIA/assets/43043633/afd7e68e-0a54-4b18-be12-b96c0f13611a
 
 
