@@ -54,7 +54,6 @@ you can read on [this file](https://github.com/juarendra/STREAMPAD-QMK-VIA/blob/
 or you can read on this [web](https://www.keychron.com/blogs/archived/how-to-use-via-to-program-your-keyboard)
 or you can see video [youtube](https://youtu.be/GtSeo69Y0Zw)
 
-
 ## Preview Hardware
 <p align="center">
   <img src="DOC/HARDWARE/hw1.jpeg" width="25%" height="25%">
@@ -63,8 +62,23 @@ or you can see video [youtube](https://youtu.be/GtSeo69Y0Zw)
 
 </p>
 
-
 ## Preview VIA
 https://github.com/juarendra/Zeapad-Pro-QMK-VIA/assets/43043633/afd7e68e-0a54-4b18-be12-b96c0f13611a
 
+## Cara Update/Upgrade Firmware
+- Siapkan dahulu macropad, kabel usb dan firmware yang ingin di update/upgrade ke macropad anda
+- Siapkan Firmware yang akan digunakan untuk update/upgrade
+- Download Software QMK Toolbox di [link berikut](https://github.com/qmk/qmk_toolbox/releases)
+- Install Software QMK Toolbox, Install Semua drivernya. setelah siap anda dapat meload Firmware yang seblumnya. Lalu Centang Auto-Flash seperti gambar dibawah
+<p align="center">
+  <img src="DOC/QMK Tollbox Awal.PNG" width="50%" height="50%">
+</p>
+
+- Colok kabel ujung usb type C ke macropad tanpa mencolokannya dahulu ke USB PC anda
+- Tekan dan tahan tombol yang berada di ujung atas kiri. lalu colokan Ujung USB yang sebelum ke USB PC anda sambil tetap menahan tombol sebelum nya sebentar
+- Setelah ada bunyi/notif USB masuk. anda dapat melepaskan tombol knobnya
+- Maka secara otomatis macropad akan terflash. jika selesai maka tampilan QMK toolbox akan seperti gambar dibawah
+<p align="center">
+  <img src="DOC/Selesai Flash QMK Toolbox.PNG" width="50%" height="50%">
+</p>
 
