@@ -1,6 +1,3 @@
-// Copyright 2022 Victor Lucachi (@victorlucachi)
-// SPDX-License-Identifier: GPL-2.0-or-later
-
 #include "zeapadpro_stm32___.h"
 #include "quantum.h"
 #ifdef RGB_MATRIX_ENABLE
