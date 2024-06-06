@@ -23,7 +23,7 @@ VIA WEB VERSION : https://usevia.app/
 - Open VIA
 - In Tab Setting, enable "Show Design Tab"
 - Open Design Tab
-- Load file with name "zeapad_via_definitions.json" 
+- Load file with name "zeapad_via_definitions.json" , you can download in this [link](https://github.com/juarendra/Zeapad-Pro-QMK-VIA/blob/main/zeapadpro_via_definitions%20.json)
 - Open Configure Tab to setting your macropad
 - If nothing happend , do it again from first
 
