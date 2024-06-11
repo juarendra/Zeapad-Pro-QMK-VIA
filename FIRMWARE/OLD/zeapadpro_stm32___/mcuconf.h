@@ -1,4 +1,4 @@
-/* Copyright 2020 Nick Brassel (tzarc)
+/* Copyright 2024 Juarendra Ramadhani(jrjruarendra@gmail.com)
  *
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
