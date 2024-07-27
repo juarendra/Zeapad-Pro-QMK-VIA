@@ -13,6 +13,7 @@ Many people use it for help they for Computer Task Like Edithing Vidio or Excel 
 * [Preview Hardware](#preview-hardware)
 * [Preview VIA](#preview-via)
 * [Cara Update/Upgrade Firmware](#cara-update/upgrade-firmware)
+* [MIDI2LR Usage](#midi2lr-usage)
 * [Documentation](#documentation)
   * [Pinout Diagram](#pinout-diagram)
   * [Dimension](#dimension)
