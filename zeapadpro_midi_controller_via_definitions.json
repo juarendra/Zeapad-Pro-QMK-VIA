@@ -83,32 +83,32 @@
     },
     {
       "name": "MIDI CC ENCODER1 SEND PLUS",
-      "title": "Sending selected cc with encoder",
+      "title": "Sending selected cc with encoder 1",
       "shortName": "MIDI_CC_ENCODER1_SEND_PLUS"
     },
     {
       "name": "MIDI CC ENCODER1 SEND MIN",
-      "title": "Sending selected cc with encoder",
+      "title": "Sending selected cc with encoder 1",
       "shortName": "MIDI_CC_ENCODER1_SEND_MIN"
     },
     {
       "name": "MIDI CC ENCODER2 SEND PLUS",
-      "title": "Sending selected cc with encoder",
+      "title": "Sending selected cc with encoder 2",
       "shortName": "MIDI_CC_ENCODER2_SEND_PLUS"
     },
     {
       "name": "MIDI CC ENCODER2 SEND MIN",
-      "title": "Sending selected cc with encoder",
+      "title": "Sending selected cc with encoder 2",
       "shortName": "MIDI_CC_ENCODER2_SEND_MIN"
     },
     {
       "name": "MIDI CC ENCODER3 SEND PLUS",
-      "title": "Sending selected cc with encoder",
+      "title": "Sending selected cc with encoder 3",
       "shortName": "MIDI_CC_ENCODER3_SEND_PLUS"
     },
     {
       "name": "MIDI CC ENCODER3 SEND MIN",
-      "title": "Sending selected cc with encoder",
+      "title": "Sending selected cc with encoder 3",
       "shortName": "MIDI_CC_ENCODER3_SEND_MIN"
     }
   ],
